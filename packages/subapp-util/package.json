@@ -23,7 +23,7 @@
     "lib"
   ],
   "dependencies": {
-    "filter-scan-dir": "1.1.1",
+    "filter-scan-dir": "1.5.5",
     "optional-require": "^1.1.6"
   },
   "devDependencies": {
