@@ -45,7 +45,7 @@
     "react-dom": "^18.2.0",
     "react-router": "^5.1.0",
     "react-router-dom": "^5.1.0",
-    "subapp-react": "^0.0.22",
+    "subapp-react": "^0.1.1",
     "subapp-server": "^1.3.0"
   },
   "devDependencies": {
