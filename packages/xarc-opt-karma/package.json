@@ -29,7 +29,7 @@
     "prepare": "shx cp node_modules/opt-archetype-check/xarc-opt-check.js ."
   },
   "dependencies": {
-    "@types/mocha": "10.0.1",
+    "@types/mocha": "10.0.6",
     "babel-plugin-istanbul": "^6.1.1",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
