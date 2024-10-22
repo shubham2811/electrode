@@ -27,7 +27,7 @@
     "prepare": "shx cp node_modules/opt-archetype-check/xarc-opt-check.js ."
   },
   "dependencies": {
-    "stylus": "^0.57.0",
+    "stylus": "^0.64.0",
     "stylus-relative-loader": "^4.0.0"
   },
   "devDependencies": {
