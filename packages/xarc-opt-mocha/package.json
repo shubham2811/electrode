@@ -33,7 +33,7 @@
     "chai-shallowly": "^1.0.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "mocha": "^10.2.0"
+    "mocha": "^11.0.1"
   },
   "devDependencies": {
     "opt-archetype-check": "1.0.0",
